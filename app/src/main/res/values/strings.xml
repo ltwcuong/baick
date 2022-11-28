@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">baick</string>
+    <string name="action_mes">Tin Nhắn</string>
+    <string name="action_cart">Giỏ Hàng</string>
+    <string name="action_note">Thông Báo</string>
+    <string name="action_acc">Cá Nhân</string>
+</resources>
